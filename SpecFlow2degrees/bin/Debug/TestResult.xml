@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\SpecFlow2degrees.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="1" ignored="0" skipped="0" invalid="0" date="2014-09-04" time="17:18:17">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug" machine-name="KIAMCEDA-REVIVE" user="KiAmCeDa-Revived" user-domain="KiAmCeDa-Revive" />
+  <culture-info current-culture="en-NZ" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\SpecFlow2degrees.dll" executed="True" result="Inconclusive" success="False" time="11.257" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SpecFlow2degrees" executed="True" result="Inconclusive" success="False" time="11.233" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Features" executed="True" result="Inconclusive" success="False" time="11.233" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="LoginFeature" description="Login" executed="True" result="Inconclusive" success="False" time="11.230" asserts="0">
+                <results>
+                  <test-case name="SpecFlow2degrees.Features.LoginFeature.LoginAtYour2Degrees" description="Login at your 2degrees" executed="True" result="Inconclusive" success="False" time="10.537" asserts="3">
+                    <categories>
+                      <category name="Login" />
+                    </categories>
+                    <reason>
+                      <message><![CDATA[One or more step definitions are not implemented yet.
+  LoginSteps.WhenIClickOnButton("Log in to Your 2d...")]]></message>
+                    </reason>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

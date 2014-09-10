@@ -1,0 +1,12 @@
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\SpecFlow2degrees.dll.config
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\SpecFlow2degrees.dll
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\SpecFlow2degrees.pdb
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\nunit.framework.dll
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\WebDriver.dll
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\WebDriver.Support.dll
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\nunit.framework.xml
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\WebDriver.xml
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\bin\Debug\WebDriver.Support.xml
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\obj\Debug\SpecFlow2degrees.dll
+C:\Users\KiAmCeDa-Revived\Documents\Visual Studio 2012\Projects\2degrees\SpecFlow2degrees\SpecFlow2degrees\obj\Debug\SpecFlow2degrees.pdb
